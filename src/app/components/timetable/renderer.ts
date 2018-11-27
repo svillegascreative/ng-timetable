@@ -1,4 +1,4 @@
-import { Tt } from 'src/app/_timetable/_models/tt';
+import { Tt } from './_models/tt';
 
 
 export class Renderer {

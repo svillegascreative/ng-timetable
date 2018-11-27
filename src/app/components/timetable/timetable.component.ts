@@ -1,8 +1,8 @@
 import { Component, OnInit, ViewChild, ElementRef } from '@angular/core';
 
-import { Timetable } from '../../_timetable/timetable';
-import { Renderer } from '../../_timetable/renderer';
-import { Scope } from '../../_timetable/_models/scope';
+import { Timetable } from './timetable';
+import { Renderer } from './renderer';
+import { Scope } from './_models/scope';
 
 @Component({
   selector: 'app-timetable',
