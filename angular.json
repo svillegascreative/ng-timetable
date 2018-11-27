@@ -27,8 +27,7 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.scss",
-              "src/app/_timetable/_scss/timetable.scss"
+              "src/styles.scss"
             ],
             "scripts": []
           },
